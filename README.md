@@ -1,7 +1,7 @@
 # NClientV2
 第三方NHentai安卓客户端。
 
-本app使用了NHentai的API，支持在API14（安卓4.0）及以上设备运行。
+本app使用了NHentai的API，支持在API14（安卓4.0）及以上设备运行。已更新简繁中文。
 
 下载：https://github.com/Dar9586/NClientV2/releases
 # API特点：
