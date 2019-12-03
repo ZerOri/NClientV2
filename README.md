@@ -4,7 +4,7 @@
 本app使用了NHentai的API，支持在API14（安卓4.0）及以上设备运行。
 
 下载：https://github.com/Dar9586/NClientV2/releases
-# API特点:
+# API特点：
   - 浏览主页
   - 通过查询或标签搜索
   - 包含或排除标签
@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/Dar9586/NClientV2/master/readme/images/img4.jpg" alt="Random manga" width="360" height="650">
 </p>
 
-## License
+## 许可
 ```
    Copyright 2019-2020 Dar9586
 
